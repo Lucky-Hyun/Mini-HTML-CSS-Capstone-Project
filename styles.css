@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: #00152a;
+    color: white;
+
+}
+.border{
+    border: 20px solid rgb(81, 229, 255);
+    height: 100%;
+}
+
+input[type=text]{
+    width: 200px;
+    display: inline-block;
+}
+input[type=email]{
+    width: 200px;
+    display: inline-block;
+}
+input[type=submit]{
+    background-color: aquamarine;
+}

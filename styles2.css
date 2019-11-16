@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap');
+body{
+    background-color: #00152a ;
+    text-align: center;
+}
+h1{
+    color: white;
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: xx-large;
+}
+p{
+    color: white;
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: large;
+}
+#border{
+    height: 15vmin;
+    border: 30px solid rgb(81, 229, 255);
+    border-top: transparent
+}
