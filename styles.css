@@ -1,28 +1,30 @@
-@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Graduate&display=swap');
 body{
-    font-family: 'Covered By Your Grace', cursive;
+    font-family: 'Graduate', cursive;
     font-size: x-large;
     text-align: center;
     background-color: #00152a;
     color: white;
+    margin: 0px;
 
 }
 p{
-    font-size: 30px;
+    font-size: 20px;
     margin: 30px;
-    padding: 50px;
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 .border{
     border: 20px solid rgb(81, 229, 255);
+    border-top: transparent;
     height: 100%;
 }
-
 
 input[type=text]{
     width: 200px;
     display: block;
     margin: auto;
-
 
 }
 input[type=email]{
