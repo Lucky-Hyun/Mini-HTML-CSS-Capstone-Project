@@ -9,14 +9,21 @@ body{
     height: 100%;
 }
 
+
 input[type=text]{
     width: 200px;
-    display: inline-block;
+    display: block;
+    margin: auto;
+
+
 }
 input[type=email]{
     width: 200px;
-    display: inline-block;
+    display: block;
+    margin: auto;
+
 }
 input[type=submit]{
     background-color: aquamarine;
+
 }
